@@ -26,7 +26,6 @@ apt update && apt upgrade -y
 pkg install python git -y
 ```
 ```bash
-pip install colorama
 ```
 ```bash
 git clone https://github.com/XPH4N70M/WA_CRASHER
@@ -35,7 +34,7 @@ git clone https://github.com/XPH4N70M/WA_CRASHER
 cd WA_CRASHER
 ```
 ```bash
-chmod +x WA_CRASHER.py (optional)
+chmod +x WA_CRASHER.py 
 ```
 ```bash
 python3 WA_CRASHER.py
